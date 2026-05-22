@@ -11,7 +11,7 @@
   "titleColor": "#FFFFFF",
   "messageColor": "#EBEBF5",
   "bgColor": "#E6101010",
-  "showBanner": true,
-  "bannerText": "🔥 Happy Diwali! Special Premium Mods Unlocked For Everyone! Enjoy 🎉",
+  "showBanner": false,
+  "bannerText": "🔥 Happy Diwali 🎉",
   "bannerTextColor": "#FFD700" 
 }
