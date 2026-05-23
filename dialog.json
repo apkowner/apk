@@ -13,7 +13,7 @@
   "titleColor": "#FFFFFF",
   "messageColor": "#EBEBF5",
   "bgColor": "#E6101010",
-  "showBanner": true,
+  "showBanner": false,
   "bannerText": "ॐ शुभ दीपावली ॐ",
   "bannerTextColor": "#E37D1B",
   "bannerBgColor": "#EBEBE1" 
