@@ -12,7 +12,7 @@
   "bannerMessage": "NEW MOD DROPPED",
   "bannerTextColor": "#FFFFFF",
   "bannerBgColor": "#1A1A2E",
-  "showGif": false,
+  "showGif": true,
   "f1": "Latest Updates",
   "f2": "Exclusive Mods",
   "f3": "100% Secure",
