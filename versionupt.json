@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "package_name": "com.truecaller.android",
+      "package_name": "com.atpc",
       "app_name": "Truecaller Mod",
       "enabled": true,
-      "latest_version_code": 105,
-      "force_range_from": 90,
-      "force_range_to": 100,
-      "force_exceptions": [95, 97],
-      "optional_list": [101, 102, 103],
+      "latest_version_code": 20260410,
+      "force_range_from": 20260400,
+      "force_range_to": 20260409,
+      "force_exceptions": [20260400, 20260401],
+      "optional_list": [20260405],
       "update_url": "https://t.me/yourchannel",
       "update_title": "New Update Available!",
       "update_notes": "Bug fixes and new features added.",
