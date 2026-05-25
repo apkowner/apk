@@ -1,19 +1,26 @@
 {
+  "global": {
+    "update_url": "https://t.me/yourchannel",
+    "update_title": "New Update Available!",
+    "force_title": "Update Required",
+    "force_message": "No forece"
+  },
   "apps": [
     {
       "package_name": "com.atpc",
       "app_name": "Truecaller Mod",
       "enabled": true,
       "latest_version_code": 20260410,
-      "force_range_from": 20260400,
-      "force_range_to": 20260402,
-      "force_exceptions": [20260400, 20260401],
-      "optional_list": [20260403],
-      "update_url": "https://t.me/yourchannel",
-      "update_title": "New Update Available!",
-      "update_notes": "Bug fixes and new features added.",
-      "force_title": "Update Required",
-      "force_message": "Please update to continue using this mod."
+      "exceptions": [20260408, 20260409],
+      "update_notes": "Bug fixes and new features added."
+    },
+    {
+      "package_name": "com.app2",
+      "app_name": "Another Mod",
+      "enabled": true,
+      "latest_version_code": 20260310,
+      "exceptions": [],
+      "update_notes": "Performance improvements."
     }
   ]
 }
