@@ -1,5 +1,5 @@
 {
-  "title": "online",
+  "title": "CACHE",
   "message": "Join our Telegram channel for latest mods, premium apps & exclusive updates!",
   "url": "https://t.me/yourchannel",
   "joinBtnText": "JOIN TELEGRAM",
@@ -7,7 +7,7 @@
   "titleColor": "#FFFFFF",
   "messageColor": "#EDEDED",
   "bgColor": "#E6080808",
-  "cancelTimer": 12,
+  "cancelTimer": 120,
   "showBanner": true,
   "showGif": true,
   "bannerMessage": "Happy Diwali! 🪔",
