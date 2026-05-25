@@ -8,7 +8,7 @@
   "messageColor": "#EBEBF5",
   "bgColor": "#12121F",
   "cancelTimer": 10,
-  "showBanner": false,
+  "showBanner": true,
   "bannerMessage": "NEW MOD DROPPED",
   "bannerTextColor": "#FFFFFF",
   "bannerBgColor": "#1A1A2E",
