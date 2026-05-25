@@ -9,7 +9,7 @@
   "bgColor": "#E6080808",
   "cancelTimer": 120,
   "showBanner": true,
-  "showGif": true,
+  "showGif": false,
   "bannerMessage": "Happy Diwali! 🪔",
   "bannerSubMessage": "Exclusive festive mods available now!",
   "bannerTextColor": "#FFFFFF",
