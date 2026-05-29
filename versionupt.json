@@ -9,16 +9,16 @@
     {
       "package_name": "com.atpc",
       "app_name": "Truecaller Mod",
-      "enabled": true,
+      "enabled": false,
       "latest_version_code": 20260510,
       "exceptions": [20260408, 20260409],
       "update_notes": "Bug fixes and new features added."
     },
     {
-      "package_name": "com.app2",
+      "package_name": "com.scores365",
       "app_name": "Another Mod",
       "enabled": true,
-      "latest_version_code": 20260310,
+      "latest_version_code": 1480,
       "exceptions": [],
       "update_notes": "Performance improvements."
     }
