@@ -1,9 +1,9 @@
 {
   "com.truecaller": {
-    "show_update": false,
-    "versionCode": 2638006,
+    "show_update": true,
+    "versionCode": 2638002,
     "title": "Update available",
-    "description": "ADownload the latest version now!",
+    "description": "To download or update a mod management application, use the official, verified channels depending on whether you are modding mobile apps or PC games",
     "download_url": "https://...",
     "telegram_url": "https://t.me/...",
     "size": "37 MB",
