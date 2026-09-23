@@ -1,10 +1,13 @@
 {
   "com.truecaller": {
+    "show_update": true,
     "versionCode": 2638006,
-    "download_url": "https://mobidrive.vip/34512a217a9040",
-    "telegram_url": "https://t.me/apkdaddy_mods",
-    "size": "137 MB",
+    "title": "Update available",
+    "description": "ADownload the latest version now!",
+    "download_url": "https://...",
+    "telegram_url": "https://t.me/...",
+    "size": "37 MB",
     "rating": "4.8",
-    "last_updated": "22 Sept 2026"
+    "last_updated": "23 Sept 2026"
   }
 }
