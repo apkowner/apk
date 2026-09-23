@@ -1,6 +1,6 @@
 {
   "com.truecaller": {
-    "show_update": true,
+    "show_update": false,
     "versionCode": 2638006,
     "title": "Update available",
     "description": "ADownload the latest version now!",
