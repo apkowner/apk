@@ -1,23 +1,18 @@
 {
-  "title": "NeoMods",
-  "message": "Join our Telegram channel for latest mods, premium apps & exclusive updates!",
-  "url": "https://telegram.me/ApkstoreZ",
-  "joinBtnText": "JOIN TELEGRAM",
-  "themeColor": "#00FF75",
-  "titleColor": "#FFFFFF",
-  "messageColor": "#EDEDED",
-  "bgColor": "#E6080808",
-  "cancelTimer": 12,
-  "showBanner": false,
-  "showGif": false,
-  "bannerMessage": "Happy Diwali! 🪔",
-  "bannerSubMessage": "Exclusive festive mods available now!",
-  "bannerTextColor": "#FFFFFF",
-  "bannerBgColor": "#1A1A2E",
-  "f1": "Latest Updates",
-  "f2": "Extra Features",
-  "f3": "100% Secure",
-  "f4": "Exclusive Mods",
-  "f5": "No Ads",
-  "f6": "Optimized Perf."
+  "com.truecaller": {
+    "versionCode": 2638006,
+    "size": "74.9 MB",
+    "download_url": "https://link.com/app1.apk",
+    "title": "DOWNLOAD NOW GUYS",
+    "colorStart": "#81C784",
+    "colorEnd": "#4CAF50"
+  },
+  "com.another.app2": {
+    "versionCode": 10,
+    "size": "120 MB",
+    "download_url": "https://link.com/app2.apk",
+    "title": "URGENT UPDATE !",
+    "colorStart": "#FF5722",
+    "colorEnd": "#E64A19"
+  }
 }
