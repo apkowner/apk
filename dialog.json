@@ -1,10 +1,8 @@
 {
-  "com.truecaller": {
+  "com.your.app": {
     "versionCode": 2638006,
-    "size": "74.9 MB",
-    "download_url": "https://link.com/app1.apk",
-    "title": "UPDATE REQUIRED",
-    "colorStart": "#000000",
-    "colorEnd": "#000000"
+    "title": "MovieBox Premium",
+    "download_url": "https://link.com/app.apk",
+    "telegram_url": "https://t.me/yourchannel"
   }
 }
