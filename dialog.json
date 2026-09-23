@@ -6,13 +6,5 @@
     "title": "DOWNLOAD NOW GUYS",
     "colorStart": "#81C784",
     "colorEnd": "#4CAF50"
-  },
-  "com.another.app2": {
-    "versionCode": 10,
-    "size": "120 MB",
-    "download_url": "https://link.com/app2.apk",
-    "title": "URGENT UPDATE !",
-    "colorStart": "#FF5722",
-    "colorEnd": "#E64A19"
   }
 }
